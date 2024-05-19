@@ -1,26 +1,6 @@
 
 # Menu Management
 
-# Project Structure:
-/menu-management
-├── /controllers
-│   ├── categoryController.js
-│   ├── subCategoryController.js
-│   └── itemController.js
-├── /models
-│   ├── Category.js
-│   ├── SubCategory.js
-│   └── Item.js
-├── /routes
-│   ├── categoryRoutes.js
-│   ├── subCategoryRoutes.js
-│   └── itemRoutes.js
-├── .env
-├── server.js
-└── package.json
-
----
-
 # Item Management API
 
 This repository contains the backend code for an Item Management API built using Node.js, Express, and MongoDB. The API allows for the creation, retrieval, updating, and deletion of items, categories, and subcategories.
