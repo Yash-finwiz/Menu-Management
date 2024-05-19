@@ -18,7 +18,7 @@ This repository contains the backend code for an Item Management API built using
 
 1. **Clone the repository:**
    ```bash
-  git clone https://github.com/Yash-finwiz/Menu-Management.git
+     git clone https://github.com/Yash-finwiz/Menu-Management.git
    ```
 
 2. **Install dependencies:**
