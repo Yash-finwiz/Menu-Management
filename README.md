@@ -31,7 +31,7 @@ This repository contains the backend code for an Item Management API built using
    Create a `.env` file in the root directory and add your MongoDB connection string:
    ```env
    MONGODB_URI=mongodb://localhost:27017/item_management
-   PORT=3000
+   PORT=5000
    ```
 
 4. **Run the application:**
